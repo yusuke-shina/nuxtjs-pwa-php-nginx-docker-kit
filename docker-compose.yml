@@ -25,13 +25,13 @@ services:
       - ./.env/.env
     environment:
       VIRTUAL_HOST: localhost
-      VIRTUAL_PORT: 8080
+      VIRTUAL_PORT: 3000
       CERT_NAME: localhost
       HTTPS_METHOD: noredirect
     expose:
-        - 8080
+        - 3000
     ports:
-      - 8000:8080
+      - 3000:3000
     volumes:
       - ./data/html/app:/app
 
