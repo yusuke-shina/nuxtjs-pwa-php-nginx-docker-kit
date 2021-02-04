@@ -1,4 +1,5 @@
 FROM node:alpine
+ENV HOST 0.0.0.0
 
 WORKDIR /app
 

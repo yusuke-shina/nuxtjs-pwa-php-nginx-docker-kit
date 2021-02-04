@@ -116,4 +116,4 @@
 ## 参考
 
 - [NuxtJS （URL：https://ja.nuxtjs.org/docs/2.x/get-started/installation）](https://ja.nuxtjs.org/docs/2.x/get-started/installation)
-- [Buefy （URL：https://buefy.org/documentation/start/）](https://buefy.org/documentation/start/)
+- [Vuetify （URL：https://vuetifyjs.com/ja/introduction/why-vuetify/#guide）](https://vuetifyjs.com/ja/introduction/why-vuetify/#guide)
