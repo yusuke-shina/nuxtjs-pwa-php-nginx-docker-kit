@@ -2,7 +2,7 @@
 
 ## Intel製CPU搭載PCの方
 
-Intel製CPU搭載PCの方は、[`main`](https://github.com/yusuke-shina/nuxtjs-pwa-php-nginx-docker-kit/tree/version/main)ブランチにチェックアウトしていただきご利用ください。
+Intel製CPU搭載PCの方は、[`main`](https://github.com/yusuke-shina/nuxtjs-pwa-php-nginx-docker-kit/tree/main)ブランチにチェックアウトしていただきご利用ください。
 
 ## 内包されているコンテナ
 
