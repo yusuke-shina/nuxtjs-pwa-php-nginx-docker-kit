@@ -1,4 +1,4 @@
-FROM jwilder/nginx-proxy:alpine
+FROM jwilder/nginx-proxy:v0.9.0
 COPY ./certs /etc/nginx/certs
 RUN { \
   echo 'server_tokens off;'; \
